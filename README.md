@@ -1,2 +1,2 @@
 # ai-thoughts
-A repository to organized thoughts on AI
+A repository to organize thoughts on AI
